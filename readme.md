@@ -70,7 +70,7 @@ Description: The second edition of the most highly regarded teaching textbook on
 * Anki Deck:card_index:
 	* [Genki 1 & 2 COMPLETE book 1 + JLPT N5 N4](https://ankiweb.net/shared/info/1132238466) - ALL the vocab, grammar and sentences from Genki 1 & 2, JLPT N5 & N4 vocab not present in Genki. :warning: Project dropped.
 	* [Genki 2nd Edition Vocabulary](https://ankiweb.net/shared/info/473118228) - compilation of vocabulary both from Grammar and Reading sections of both Genki 1 & 2.
-* [Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA)
+* [Google Drive](https://drive.google.com/drive/folders/0B7RbJJM_m3GDWTBVRk5mcm9YMEU?resourcekey=0-QdQYKB8lfciygD4mZNdnxw&usp=sharing)
 
 ### Tobira:man:
 
@@ -85,7 +85,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	
 ### Other textbooks
 
-[Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) - contains links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
+[Google Drive](https://drive.google.com/drive/folders/0B7RbJJM_m3GDWTBVRk5mcm9YMEU?resourcekey=0-QdQYKB8lfciygD4mZNdnxw&usp=sharing) - contains links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
